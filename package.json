@@ -1,0 +1,19 @@
+{
+  "name": "kt",
+  "version": "1.0.0",
+  "description": "kt vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kthosp/kt.git"
+  },
+  "author": "nont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kthosp/kt/issues"
+  },
+  "homepage": "https://github.com/kthosp/kt#readme"
+}
