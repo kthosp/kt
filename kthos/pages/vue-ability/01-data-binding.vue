@@ -1,10 +1,15 @@
 <template>
+<div>
+    <div> 
+        <nuxt-link to="/vue-ability">back</nuxt-link>
+    </div>
     <div class="con-center">
         <h1>01.Data-Binding</h1>
         <br><hr>
         <h1>Hello {{name}}</h1>
         <input type="text" :value="name" />
     </div>
+</div>    
 </template>
 
 <script>
